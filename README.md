@@ -1,5 +1,5 @@
 # Michael Back
-![Me at the Herrick Aquatic Ecology Research Facility at Kent State](IMG_5008.jpg)
+![Me at the Herrick Aquatic Ecology Research Facility at Kent State](IMG_5008.jpg 'Mike at Kent State's Herrick Aquatic Ecology Research Facility')
 
 [Curriculum Vitae](MichaelBack_CV_2025.pdf)
 
